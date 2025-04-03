@@ -1,22 +1,20 @@
-Disk Scheduling Simulator
+OVERVIEW
 
-Overview
-
-The Disk Scheduling Simulator is a tool designed to visualize and analyze different disk scheduling algorithms, including FCFS (First-Come, First-Served), SSTF (Shortest Seek Time First), SCAN, and C-SCAN. Users can input custom disk access requests and observe how these algorithms optimize seek time and system throughput. This simulator is useful for students, researchers, and system administrators to understand disk scheduling mechanisms and improve storage efficiency.
+The Disk Scheduling Simulator is a tool designed to visualize and analyze different disk scheduling algorithms, including FCFS (First-Come, First-Served), SSTF (Shortest Seek Time First), SCAN, and C-SCAN. Users can input custom disk access   requests and observe how these algorithms optimize seek time and system throughput. This simulator is useful for students, researchers, and system administrators to understand disk scheduling mechanisms and improve storage efficiency.
 
 Features
 
-Support for Multiple Algorithms: Includes FCFS, SSTF, SCAN, and C-SCAN scheduling algorithms.
+ - Support for Multiple Algorithms: Includes FCFS, SSTF, SCAN, and C-SCAN scheduling algorithms.
 
-Custom Disk Requests: Users can input their own sequences of disk requests.
+ - Custom Disk Requests: Users can input their own sequences of disk requests.
 
-Performance Metrics: Displays key performance metrics like total head movement, average seek time, and system throughput.
+ - Performance Metrics: Displays key performance metrics like total head movement, average seek time, and system throughput.
 
-Graphical Visualization: Shows real-time head movement through interactive graphs.
+ - Graphical Visualization: Shows real-time head movement through interactive graphs.
 
-Comparison Mode: Allows users to compare different scheduling algorithms side by side.
+ - Comparison Mode: Allows users to compare different scheduling algorithms side by side.
 
-Export Results: Enables saving of performance reports in CSV, PDF, or JSON formats.
+ - Export Results: Enables saving of performance reports in CSV, PDF, or JSON formats.
 
 Technologies Used
 
