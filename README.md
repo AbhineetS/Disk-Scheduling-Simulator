@@ -18,36 +18,30 @@ Features
 
 Technologies Used
 
-Programming Language: Python
+- Programming Language: Python
 
-Libraries & Frameworks:
+- Libraries & Frameworks:
 
-Matplotlib: Visual representation of disk head movement.
+- Terminal : Visual representation of disk head movement.
 
-Flask: Backend API for processing scheduling logic.
+- Terminal : Backend API for processing scheduling logic.
 
-Tkinter / PyQt: GUI for user interaction and visualization.
+- Terminal: GUI for user interaction and visualization.
 
-Pandas: Data handling and performance metric calculations.
-
-Database: SQLite / PostgreSQL (for storing request logs and performance analysis data)
 
 How It Works
 
-User Inputs Disk Requests: Users enter disk request sequences and specify the initial head position.
+- User Inputs Disk Requests: Users enter disk request sequences and specify the initial head position.
 
-Algorithm Execution: The selected scheduling algorithm processes the requests.
+- Algorithm Execution: The selected scheduling algorithm processes the requests.
 
-Visualization & Metrics: The system displays disk head movement and calculates performance metrics.
+- Visualization & Metrics: The system displays disk head movement and calculates performance metrics.
 
-Comparison & Reporting: Users can compare different algorithms and export results.
+- omparison & Reporting: Users can compare different algorithms and export results.
 
 Future Enhancements
 
-Additional Algorithms: Implement LOOK, C-LOOK, and Elevator algorithms.
+- Additional Algorithms: Implement LOOK, C-LOOK, and Elevator algorithms.
 
-Real-Time Disk Monitoring: Integrate with actual disk I/O for real-time scheduling analysis.
+- Real-Time Disk Monitoring: Integrate with actual disk I/O for real-time scheduling analysis.
 
-AI-Based Optimization: Use machine learning models to predict optimal scheduling strategies.
-
-Cloud Integration: Enable remote access and cloud-based storage of disk scheduling logs.
